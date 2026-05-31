@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is your return policy?",
+    "answer": "We offer a 30-day return policy for all unused items in their original packaging. To initiate a return, contact our support team with your order number. Refunds are processed within 5-7 business days.",
+    "category": "returns"
+  },
+  {
+    "id": 2,
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 5-7 business days. Express shipping (2-3 days) and overnight options are also available. Free standard shipping is offered on orders over $50.",
+    "category": "shipping"
+  },
+  {
+    "id": 3,
+    "question": "How do I track my order?",
+    "answer": "Once your order is shipped, you will receive a tracking email with a link to monitor your package. You can also log into your account and visit the 'My Orders' section to view real-time tracking.",
+    "category": "shipping"
+  },
+  {
+    "id": 4,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, MasterCard, American Express, PayPal, Apple Pay, Google Pay, and bank transfers. All transactions are secured with SSL encryption.",
+    "category": "payments"
+  },
+  {
+    "id": 5,
+    "question": "Can I cancel or modify my order?",
+    "answer": "Orders can be cancelled or modified within 1 hour of placement. After that, the order enters processing and changes may not be possible. Please contact support immediately if you need changes.",
+    "category": "orders"
+  },
+  {
+    "id": 6,
+    "question": "Do you offer international shipping?",
+    "answer": "Yes, we ship to over 50 countries worldwide. International shipping rates and delivery times vary by destination. Customs duties and taxes are the responsibility of the buyer.",
+    "category": "shipping"
+  },
+  {
+    "id": 7,
+    "question": "How do I reset my password?",
+    "answer": "Click 'Forgot Password' on the login page, enter your registered email, and follow the reset link sent to your inbox. If you don't see the email, check your spam folder.",
+    "category": "account"
+  },
+  {
+    "id": 8,
+    "question": "Is my personal data safe?",
+    "answer": "Absolutely. We use industry-standard AES-256 encryption to protect all personal data. We never sell your information to third parties and comply with GDPR and CCPA regulations.",
+    "category": "privacy"
+  },
+  {
+    "id": 9,
+    "question": "How do I contact customer support?",
+    "answer": "You can reach our support team via live chat (available 24/7), email at support@example.com (response within 24 hours), or phone at 1-800-EXAMPLE (Mon-Fri, 9AM-6PM EST).",
+    "category": "support"
+  },
+  {
+    "id": 10,
+    "question": "Do you have a loyalty rewards program?",
+    "answer": "Yes! Our rewards program lets you earn 1 point per dollar spent. Points can be redeemed for discounts, free shipping, or exclusive products. Sign up is free through your account dashboard.",
+    "category": "rewards"
+  },
+  {
+    "id": 11,
+    "question": "What is the warranty on your products?",
+    "answer": "All products come with a 1-year manufacturer warranty covering defects in materials and workmanship. Extended warranties of up to 3 years are available for purchase at checkout.",
+    "category": "warranty"
+  },
+  {
+    "id": 12,
+    "question": "How do I apply a discount or promo code?",
+    "answer": "Enter your promo or discount code in the 'Coupon Code' field at checkout and click 'Apply'. The discount will be reflected in your order total. Only one code can be used per order.",
+    "category": "payments"
+  },
+  {
+    "id": 13,
+    "question": "Are your products eco-friendly?",
+    "answer": "We are committed to sustainability. Over 70% of our product line uses recycled or sustainably sourced materials. All packaging is 100% recyclable and we are carbon-neutral as of 2023.",
+    "category": "sustainability"
+  },
+  {
+    "id": 14,
+    "question": "Can I exchange an item for a different size?",
+    "answer": "Yes, exchanges for different sizes are free within 30 days of purchase. Visit our exchange portal, select the item and new size, and ship it back using the prepaid label we provide.",
+    "category": "returns"
+  },
+  {
+    "id": 15,
+    "question": "Do you offer student or military discounts?",
+    "answer": "Yes! We offer a 15% discount for verified students and a 20% discount for active military and veterans. Verification is done through our partner ID.me during checkout.",
+    "category": "discounts"
+  }
+]
