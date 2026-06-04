@@ -131,8 +131,8 @@ This project fulfills:
 ## 🖼️ Project Screenshots
 
 <p align="center">
-  <img src="static/images/chatbot1.png" width="400"/>
-  <img src="static/images/chatbot2.png" width="400"/>
+  <img src="chatbot1.png" width="400"/>
+  <img src="chatbot2.png" width="400"/>
 </p>
 ## 👩‍💻 Author
 
@@ -150,7 +150,7 @@ Special thanks to **CodeAlpha** for providing this AI Internship opportunity.
 ## 🖼️ Project Screenshots
 
 ### Chatbot UI 1
-![Chatbot UI 1](static/images/chatbot1.png)
+![Chatbot UI 1](chatbot1.png)
 
 ### Chatbot UI 2
-![Chatbot UI 2](static/images/chatbot2.png)
+![Chatbot UI 2](chatbot2.png)
