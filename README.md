@@ -150,7 +150,7 @@ Special thanks to **CodeAlpha** for providing this AI Internship opportunity.
 ## 🖼️ Project Screenshots
 
 ### Chatbot UI 1
-![Chatbot UI 1](static/images/chatbot (1).png)
+![Chatbot UI 1](static/images/chatbot1.png)
 
 ### Chatbot UI 2
-![Chatbot UI 2](static/images/chatbot (2).png)
+![Chatbot UI 2](static/images/chatbot2.png)
