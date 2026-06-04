@@ -131,14 +131,14 @@ This project fulfills:
 ## 🖼️ Project Screenshots
 
 <p align="center">
-  <img src="static/images/chatbot (1).png" width="400"/>
-  <img src="static/images/chatbot (2).png" width="400"/>
+  <img src="static/images/chatbot1.png" width="400"/>
+  <img src="static/images/chatbot2.png" width="400"/>
 </p>
 ## 👩‍💻 Author
 
-**Sabii**
+**Saba Ashraf**
 AI & Python Developer | Student at IBIT
-GitHub: https://github.com/your-username
+GitHub: https://github.com/sabaashraf27
 
 ---
 
